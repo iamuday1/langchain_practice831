@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 authors = [
-    { name = "Uday Sankar", email = "upenumaka@worldbankgroup.org" }
+    { name = "Uday Sankar", email = "" }
 ]
 requires-python = ">=3.13"
 dependencies = [
